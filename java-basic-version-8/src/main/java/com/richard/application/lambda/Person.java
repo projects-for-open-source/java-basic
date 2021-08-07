@@ -10,13 +10,13 @@
 package com.richard.application.lambda;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.ToString;
 
 /**
  * @author richard
  */
-@ToString
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Person {
