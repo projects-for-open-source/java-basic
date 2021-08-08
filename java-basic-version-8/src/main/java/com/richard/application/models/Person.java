@@ -7,7 +7,7 @@
  * @Year: 2021
  * @LICENSE: DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER
  */
-package com.richard.application.lambda;
+package com.richard.application.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -21,8 +21,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Person {
 
+  /** firstName: */
   public String firstName;
 
+  /** lastName: */
   public String lastName;
 
 }

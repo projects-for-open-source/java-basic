@@ -9,6 +9,8 @@
  */
 package com.richard.application.lambda;
 
+import com.richard.application.models.Person;
+
 /**
  * @author richard
  */
